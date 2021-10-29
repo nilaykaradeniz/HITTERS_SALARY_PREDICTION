@@ -1,6 +1,5 @@
 <p><strong>BUSINESS PROBLEM : </strong></p>
-<li>Salary information of baseball players and career statistics for 1986</li>
-<li>shared. The salary estimates of the players will be estimated by machine learning algorithms.</li>
+<li>Salary information of baseball players and career statistics for 1986 shared. The salary estimates of the players will be estimated by machine learning algorithms.</li>
  </br>
 <p><strong>DATASET STORY :</strong></p>
 <li>This dataset was originally taken from the StatLib library at Carnegie Mellon University.</li>
